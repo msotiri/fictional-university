@@ -1,2 +1,1 @@
 # fictional-university
-# Maria Sotiri
